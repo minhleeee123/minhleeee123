@@ -255,8 +255,8 @@ Real-time emotion recognition using YOLOv8/v11 and DeepFace
 Full-stack system with JWT auth and role-based access control
 <br/><br/>
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens)
 
 </td>
 <td width="50%">
