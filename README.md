@@ -283,16 +283,10 @@ Modern e-commerce platform with GraphQL API
   
 </div>
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minhleeee123&theme=tokyo-night&bg_color=0D1117&color=3ABFEF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-  
-</div>
+<br/>
 
 ---
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
