@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Le%20Quang%20Minh&fontSize=42&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Freelancer%20%7C%20Hackathon%20Winner&descSize=16&descAlignY=51&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Le%20Quang%20Minh&fontSize=42&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Freelancer%20%7C%20Hackathon%20Winner&descSize=16&descAlignY=50&animation=twinkling" />
 
-<br/>
+<br/><br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+innovative+web+%26+AI+applications;Freelance+full-stack+development;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=Building+innovative+web+%26+AI+applications;Freelance+full-stack+development;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -115,9 +115,6 @@ const developer = {
 <summary><b>🤖 AI & Machine Learning</b></summary>
 <br/>
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/Claude-8B5CF6?style=for-the-badge" alt="Claude"/>
   <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge" alt="YOLO"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/DeepFace-FF6B6B?style=for-the-badge" alt="DeepFace"/>
@@ -129,10 +126,6 @@ const developer = {
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Stellar-000000?style=for-the-badge&logo=stellar&logoColor=white" alt="Stellar"/>
-  <img src="https://img.shields.io/badge/Soroban-7D00FF?style=for-the-badge" alt="Soroban"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js"/>
-  <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge" alt="Ethers.js"/>
   <img src="https://img.shields.io/badge/NEO-00E599?style=for-the-badge" alt="NEO"/>
 </p>
 </details>
@@ -177,7 +170,6 @@ const developer = {
 |:---:|:---:|:---:|:---:|
 | 🥉 **3rd Place** | **CryptoInsight AI** | IQ ADK, Gemini, React, Node.js | 2024 |
 | 🏅 **4th Place** | **AI Email Manager** | Spoon OS, Python, FastAPI, React | 2025 |
-| 🏆 **Winner** | **Various Projects** | Multi-stack Development | 2023-2025 |
 
 </div>
 
@@ -314,43 +306,6 @@ mindmap
       DeFi Protocols
       NFT Standards
 ```
-
-</div>
-
----
-
-## 📫 Get In Touch
-
-<div align="center">
-
-### Let's connect and build something amazing together! 🚀
-
-<p>
-  <a href="mailto:157082841+minhleeee123@users.noreply.github.com">
-    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://web.facebook.com/minh.le.187327/">
-    <img src="https://img.shields.io/badge/Follow-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://x.com/minh_quang28278">
-    <img src="https://img.shields.io/badge/Follow-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/quang-minh-lê-08b71037a/">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-<br/>
-
-### 💼 Open to:
-- 🤝 Collaboration on open-source projects
-- 💡 Freelance opportunities
-- 🎓 Mentoring and knowledge sharing
-- 🚀 Exciting hackathons and competitions
-
-<br/>
-
-**"Code is like humor. When you have to explain it, it's bad." – Cory House**
 
 </div>
 
