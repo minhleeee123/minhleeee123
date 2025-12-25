@@ -23,19 +23,6 @@
 
 ## 🚀 About Me
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Name-L%C3%AA%20Quang%20Minh-3ABFEF?style=for-the-badge" alt="Name" />
-  <img src="https://img.shields.io/badge/Location-H%C3%A0%20N%E1%BB%99i%2C%20Vietnam-FF6B6B?style=for-the-badge" alt="Location" />
-  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-8E75B2?style=for-the-badge" alt="Role" />
-  <img src="https://img.shields.io/badge/Work-Freelancer-46E3B7?style=for-the-badge" alt="Freelancer" />
-</div>
-
-<div align="center">
-  <sub><b>Open to:</b> freelance work • open-source collaboration • hackathons</sub>
-</div>
-
-<br/>
-
 ```typescript
 const developer = {
     name: "Lê Quang Minh",
