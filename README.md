@@ -279,7 +279,7 @@ Modern e-commerce platform with GraphQL API
 
 <div align="center">
   
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false" alt="Random Dev Quote"/>
   
 </div>
 
