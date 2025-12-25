@@ -295,33 +295,4 @@ Modern e-commerce platform with GraphQL API
 
 ---
 
-## 💡 Currently Learning & Exploring
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Skills 2025))
-    Frontend
-      Next.js 15
-      TailwindCSS v4
-      Framer Motion
-    Backend
-      Microservices
-      GraphQL Federation
-      Redis Caching
-    AI/ML
-      LLM Integration
-      RAG Systems
-      Vector Databases
-    Web3
-      Soroban Contracts
-      DeFi Protocols
-      NFT Standards
-```
-
-</div>
-
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
