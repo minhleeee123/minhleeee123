@@ -23,6 +23,19 @@
 
 ## 🚀 About Me
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Name-L%C3%AA%20Quang%20Minh-3ABFEF?style=for-the-badge" alt="Name" />
+  <img src="https://img.shields.io/badge/Location-H%C3%A0%20N%E1%BB%99i%2C%20Vietnam-FF6B6B?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-8E75B2?style=for-the-badge" alt="Role" />
+  <img src="https://img.shields.io/badge/Work-Freelancer-46E3B7?style=for-the-badge" alt="Freelancer" />
+</div>
+
+<div align="center">
+  <sub><b>Open to:</b> freelance work • open-source collaboration • hackathons</sub>
+</div>
+
+<br/>
+
 ```typescript
 const developer = {
     name: "Lê Quang Minh",
@@ -149,14 +162,14 @@ const developer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=minhleeee123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=3ABFEF&icon_color=3ABFEF&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=minhleeee123&theme=tokyonight" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=minhleeee123&theme=tokyonight&hide_border=true&background=0D1117&stroke=3ABFEF&ring=3ABFEF&fire=FF6B6B&currStreakLabel=3ABFEF" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhleeee123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ABFEF&text_color=FFFFFF&langs_count=10" alt="Top Languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=minhleeee123&theme=tokyonight" alt="Top Languages"/>
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=minhleeee123&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3ABFEF&line=3ABFEF&point=FF6B6B" alt="Activity Graph"/>
 </div>
 
