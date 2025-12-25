@@ -205,6 +205,29 @@ const developer = {
 <tr>
 <td width="50%">
 
+### 📧 [AI Email Manager (Scoop AI Winner)](https://github.com/minhleeee123/ai-email-manager-scoop-ai-winner)
+AI-powered email management assistant built for the Scoop AI Hackathon
+<br/><br/>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🧠 [CryptoInsight AI (Agent Arena Winner)](https://github.com/minhleeee123/cryptoinsight-ai-agent-arena-winner)
+Crypto research assistant agent built for the Agent Arena University Hackathon
+<br/><br/>
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
 ### 🔐 [Stellar Digital Identity](https://github.com/minhleeee123/stellar-digital-identity)
 Blockchain-based identity verification using Soroban smart contracts
 <br/><br/>
